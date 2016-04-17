@@ -1,13 +1,18 @@
 **PyBerzerk**
 ===================
-Clone of the 1980s **Berzerk** arcade game. Written by Terry Olson as a  **Python** development exercise using **Pygame**. To date, tested on Windows and Ubuntu platforms.
+Clone of the 1980s **Berzerk** arcade game. Written by TerryO as a  **Python** development exercise using **Pygame**. To date, tested on Windows and Ubuntu platforms.
 
-**SCREENSHOTS**
-
-![Screenshot of PyBerzerk](PyBerzerk/Screenshots/Gameplay1.png "GamePlay1")
-![Screenshot of PyBerzerk](PyBerzerk/Screenshots/Gameplay2.png "GamePlay2")
-![Screenshot of PyBerzerk](PyBerzerk/Screenshots/Gameplay3.png "GamePlay3")
-![Screenshot of PyBerzerk](PyBerzerk/Screenshots/HighScore.png "HighScore")
+**SCREENSHOTS:**
+<table>
+ <tr>
+  <td><img src="./Screenshots/Gameplay3.png" alt="Gameplay3" /></td>
+  <td><img src="./Screenshots/Gameplay2.png" alt="GamePlay2" /></td>
+ </tr>
+ <tr>
+  <td><img src="./Screenshots/Gameplay1.png" alt="Gameplay1" /></td>
+  <td><img src="./Screenshots/HighScore.png" alt="HighScore" /></td>
+ </tr>
+</table>
 
 ----------
 
@@ -22,13 +27,32 @@ From the command line: python pyberzerk.py
 **GAME PLAY:**
 Use the **ARROW** key(s) to navigate the player through a maze filled with robots who have an extreme dislike for humanoids.  Hold the **SPACEBAR** and press **ARROW** key(s) to fire player's laser weapon. The player can be killed by being blasted by a robot, running into a robot, exploding robot shrapnel, coming into contract with the electrified maze walls or by being touched by Evil Otto(bouncing smiley face). 
 
-| Game Controls   |   | Player/Laser|
- ---------| - | ------------------
-|<kbd>&larr;</kbd> LEFT ARROW| - | Move the player left  |
-|<kbd>&rarr;</kbd> RIGHT ARROW | - | Move the player right |
-|<kbd>&uarr;</kbd> UP ARROW | - | Move the player up |
-|<kbd>&darr;</kbd> DOWN ARROW | - | Move the player down |
-|<kbd>SPACEBAR</kbd> SPACEBAR | - | Fire laser in direction of ARROW key(s) |
+<table>
+ <tr>
+  <th align="left">Game Controls</th>
+  <th align="left">Player/Laser</th>
+ </tr>
+ <tr>
+  <td><kbd>&larr;</kbd> LEFT ARROW</td>
+  <td>Move the player left</td>
+ </tr>
+  <tr>
+  <td><kbd>&rarr;</kbd> RIGHT ARROW</td>
+  <td>Move the player right</td>
+ </tr>
+  <tr>
+  <td><kbd>&uarr;</kbd> UP ARROW</td>
+  <td>Move the player up</td>
+ </tr>
+  <tr>
+  <td><kbd>&darr;</kbd> DOWN ARROW</td>
+  <td>Move the player down</td>
+ </tr>
+  <tr>
+  <td><kbd>SPACEBAR</kbd></td>
+  <td>Fire laser in direction of ARROW key(s)</td>
+ </tr>
+</table>
 
 > **Helpful Hints:**
 > 
