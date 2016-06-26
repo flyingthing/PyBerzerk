@@ -25,7 +25,7 @@ From the command line: python pyberzerk.py
 
 
 **GAME PLAY:**
-Use the **ARROW** key(s) to navigate the player through a maze filled with robots who have an extreme dislike for humanoids.  Hold the **SPACEBAR** and press **ARROW** key(s) to fire player's laser weapon. The player can be killed by being blasted by a robot, running into a robot, exploding robot shrapnel, coming into contract with the electrified maze walls or by being touched by Evil Otto(bouncing smiley face). 
+Use the **ARROW** key(s) to navigate the player through a maze filled with robots who have an extreme dislike for humanoids.  Hold the **SPACEBAR** and press **ARROW** key(s) to fire player's laser weapon. The player can be killed by being blasted by a robot, running into a robot, exploding robot shrapnel, coming into contact with the electrified maze walls or by being touched by Evil Otto(bouncing smiley face). 
 
 <table>
  <tr>
