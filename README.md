@@ -2,6 +2,14 @@
 ===================
 Clone of the 1980s **Berzerk** arcade game. Written by TerryO as a  **Python** development exercise using **Pygame**. To date, tested on Windows and Ubuntu platforms.
 
+<<<<<<< HEAD
+**SCREENSHOTS**
+
+![Screenshot of PyBerzerk](Screenshots/Gameplay1.png "GamePlay1")
+![Screenshot of PyBerzerk](Screenshots/Gameplay2.png "GamePlay2")
+![Screenshot of PyBerzerk](Screenshots/Gameplay3.png "GamePlay3")
+![Screenshot of PyBerzerk](Screenshots/HighScore.png "HighScore")
+=======
 **SCREENSHOTS:**
 <table>
  <tr>
@@ -9,10 +17,11 @@ Clone of the 1980s **Berzerk** arcade game. Written by TerryO as a  **Python** d
   <td><img src="./Screenshots/Gameplay2.png" alt="GamePlay2" /></td>
  </tr>
  <tr>
-  <td><img src="./Screenshots/Gameplay1.png" alt="Gameplay1" /></td>
+  <td><img src="./Screenshots/GamePlayDemo.gif" alt="GamePlayDemo" /></td>
   <td><img src="./Screenshots/HighScore.png" alt="HighScore" /></td>
  </tr>
 </table>
+>>>>>>> refs/remotes/origin/master
 
 ----------
 
@@ -25,7 +34,7 @@ From the command line: python pyberzerk.py
 
 
 **GAME PLAY:**
-Use the **ARROW** key(s) to navigate the player through a maze filled with robots who have an extreme dislike for humanoids.  Hold the **SPACEBAR** and press **ARROW** key(s) to fire player's laser weapon. The player can be killed by being blasted by a robot, running into a robot, exploding robot shrapnel, coming into contact with the electrified maze walls or by being touched by Evil Otto(bouncing smiley face). 
+Use the **ARROW** key(s) to navigate the player through a maze filled with robots who have an extreme dislike for humanoids.  Hold the **SPACEBAR** and press **ARROW** key(s) to fire player's laser weapon. The player can be killed by being blasted by a robot, running into a robot, exploding robot shrapnel, coming into contact with the electrified maze walls or being touched by Evil Otto(bouncing smiley face).
 
 <table>
  <tr>
