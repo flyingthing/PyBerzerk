@@ -5,7 +5,7 @@ Clone of the 1980s **Berzerk** arcade game. Written by TerryO as a  **Python** d
 <<<<<<< HEAD
 **SCREENSHOTS**
 
-![Screenshot of PyBerzerk](Screenshots/Gameplay1.png "GamePlay1")
+![Screenshot of PyBerzerk](Screenshots/GamePlayDemo.gif "GamePlayDemo")
 ![Screenshot of PyBerzerk](Screenshots/Gameplay2.png "GamePlay2")
 ![Screenshot of PyBerzerk](Screenshots/Gameplay3.png "GamePlay3")
 ![Screenshot of PyBerzerk](Screenshots/HighScore.png "HighScore")
