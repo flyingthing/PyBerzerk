@@ -2,14 +2,6 @@
 ===================
 Clone of the 1980s **Berzerk** arcade game. Written by TerryO as a  **Python** development exercise using **Pygame**. To date, tested on Windows and Ubuntu platforms.
 
-<<<<<<< HEAD
-**SCREENSHOTS**
-
-![Screenshot of PyBerzerk](Screenshots/Gameplay1.png "GamePlay1")
-![Screenshot of PyBerzerk](Screenshots/Gameplay2.png "GamePlay2")
-![Screenshot of PyBerzerk](Screenshots/Gameplay3.png "GamePlay3")
-![Screenshot of PyBerzerk](Screenshots/HighScore.png "HighScore")
-=======
 **SCREENSHOTS:**
 <table>
  <tr>
@@ -17,11 +9,10 @@ Clone of the 1980s **Berzerk** arcade game. Written by TerryO as a  **Python** d
   <td><img src="./Screenshots/Gameplay2.png" alt="GamePlay2" /></td>
  </tr>
  <tr>
-  <td><img src="./Screenshots/Gameplay1.png" alt="GamePlay1" /></td>
+  <td><img src="./Screenshots/GamePlayDemo.gif" alt="GamePlayDemo" /></td>
   <td><img src="./Screenshots/HighScore.png" alt="HighScore" /></td>
  </tr>
 </table>
->>>>>>> refs/remotes/origin/master
 
 ----------
 
